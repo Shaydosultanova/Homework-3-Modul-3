@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter';
+}
+
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+header{
+    width: 1440px;
+    height: 169px;
+    background-color: black;
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    gap: 423px;
+    margin-left: 100px;
+}
+
+.rasm{
+    margin-top: 50px;
+}
+
+.buyruq{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+    gap: 41px;
+}
+
+p{
+    text-shadow: 0px 4px 7,4px rgba(255, 255, 255, 1);
+}
+
+h1{
+    font-size: 64px;
+    text-align: center;
+    background-color: white;
+    width: 602px;
+    height: 75px;
+    border-radius: 30px;
+    margin-left: 455px;
+    box-shadow: 16px 18px 28px rgba(255, 255, 255, 0.25);
+}
+
+.back{
+  background-image: url('Rectangle 2 (8).svg');  
+  width: 1440px;
+  height: 594px;
+  padding-top: 37px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 297px;
+}
+
+.relative{
+    background-color: rgba(50, 251, 0, 1);
+    width: 237px;
+    height: 209px;
+    text-align: center;
+    padding-top: 146px;
+    position: relative;
+    color: red;
+    box-shadow: 0px 22px 27.8px rgba(255, 249, 249, 0.25);
+    font-size: 24px;
+    bottom: 50px;
+    top: -30%;
+}
+
+.absolute{
+    background-color: rgba(247, 1, 1, 1);
+    width: 237px;
+    height: 209px;
+    color: white;
+    text-align: center;
+    padding: 90px 52px;
+    position: absolute;
+    top: 400px;
+    font-size: 24px;
+    box-shadow: 0px 18px 26.5px rgba(251, 0, 0, 0.25);
+    text-shadow: 0px 4px 7.4px rgba(255, 255, 255, 1);
+
+}
+
+.absolutee{
+    width: 411px;
+    border-radius: 100px;
+    position: absolute;
+    right: 430px;
+    text-shadow: opx 4px 7.4px rgba(255, 255, 255, 1);
+}
+
+.absolute1{
+    position: absolute;
+    left: 350px;
+    text-shadow: opx 4px 7.4px rgba(255, 255, 255, 1);
+}
+
+.absolute3{
+    position: absolute;
+    right: 150px;
+    text-shadow: opx 4px 7.4px rgba(255, 255, 255, 1);
+}
+
+.qora{
+    background-color: black;
+    width: 1440px;
+    padding-top: 79px;
+    padding-bottom: 182px;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box{
+    width: 368px;
+    height: 332px;
+    background-color: rgba(123, 37, 37, 1);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    margin-top: 125px;
+}
+
+.qwr{
+    padding-top: 50px;
+    font-size: 32px;
+    text-shadow: 0px 4px 7.4px rgba(255, 255, 255, 1)
+}
+
+.qwr1{
+    padding-bottom: 68px;
+}
+
+.qwr2{
+    padding-bottom: 87px;
+}
+
+.qwr3{
+    padding-bottom: 36px;
+}
+
+.Postion{
+    font-size: 20px;
+    padding: 0px 51px 0px 52px;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 1440px;
+    padding-left: 87px;
+    padding-right: 101px;
+
+}
+
+.img{
+    padding-bottom: 60px;
+    background-color: black;
+}
+
+.tekst{
+   display: flex;
+   justify-content: space-around;
+   gap: 41px;
+   color: white;
+   list-style: none;
+   font-size: 24px;
+   text-shadow: 0px 4px 7.4px rgba(255, 255, 255, 1);
+}
